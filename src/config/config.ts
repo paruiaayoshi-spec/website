@@ -10,15 +10,15 @@ const siteConfig = {
     title: '1st Year student at Christ University | Class representative',
     image: getAsset('images/ayoshiii.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'I’m a first-year Economics and Data Science student at Christ University, fascinated by the role of statistics and data in shaping the global economy. My interest in data science drives me to explore innovative ways of analyzing economic trends and making insights more impactful. I’m especially passionate about applying these skills to sustainability and the UN SDGs, using data to promote inclusive growth, climate action, and equitable development. I am also keen on analysing statistical trends using data visualization tools and draw inferences. Always curious, I’m eager to learn, collaborate, and contribute at the intersection of economics, data, and sustainability..\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'Areas of interest data analysis.\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      'Class 10 CBSE and class 12 CBSE with a subject combination pf Eco, Geo, Math, Psychology, Sociology and English.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    tagline: 'Data driven with a curious mind.',
+    location: 'Kolkata, India',
   },
 
   seo: {
