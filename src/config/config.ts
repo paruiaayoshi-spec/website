@@ -6,7 +6,7 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Aayoshi Parui',
+    name: 'Prachi Shah',
     title: '1st Year student at Christ University | Class representative',
     image: getAsset('images/ayoshiii.png'), // Customize or replace with your profile image
     description:
